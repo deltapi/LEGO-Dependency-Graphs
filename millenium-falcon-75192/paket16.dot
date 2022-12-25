@@ -1,5 +1,10 @@
 digraph paket16 {
-    rankdir=LR
+    rankdir=LR;
+    ratio="fill";
+    size="11.7,8.3!";
+    margin=0.25;
+    fontsize="48";
+    node [fontsize="48"];
 
 1135 [color=red];
 1136 [color=green];
